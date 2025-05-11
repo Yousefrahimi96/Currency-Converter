@@ -17,7 +17,7 @@ A simple web-based currency converter built with Streamlit. It allows users to c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/yousefrahimi96/currency-converter.git
    cd currency-converter
    ```
 
